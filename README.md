@@ -1,0 +1,8 @@
+# AppBar-ScrollFlags-Example
+
+Scroll Flags Example
+* ENTER_ALWAYS
+* ENTER_ALWAYS_COLLAPSED
+* EXIT_UNTIL_COLLAPSED
+* SCROLL
+* SNAP
